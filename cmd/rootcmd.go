@@ -10,7 +10,7 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:     "{name} {behavior} [--config]",
+	Use:     "{name} {behavior}",
 	Short:   "return result based on behavior",
 	Long:    `return result based on name and behavior`,
 	Example: "c1 eat",
