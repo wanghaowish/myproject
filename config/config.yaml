@@ -1,0 +1,11 @@
+pets:
+  - name: c1
+    type: cat
+  - name: d1
+    type: dog
+  - name: b1
+    type: bird
+  - name: c2
+    type: cat
+  - name: d2
+    type: dog
